@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Thereline\JetstreamExtension\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class JetstreamExtensionCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'jetstream-extension';
 
     public $description = 'My command';
 
