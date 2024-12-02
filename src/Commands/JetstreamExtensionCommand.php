@@ -6,7 +6,7 @@ use Illuminate\Console\Command;
 
 class JetstreamExtensionCommand extends Command
 {
-    public $signature = 'jetstream-extension';
+    public $signature = 'jetstream-extension:install';
 
     public $description = 'My command';
 
